@@ -5,4 +5,4 @@ This Jupyter notebook serves as a reference for individuals who work with, or ar
 <br>
 This notebook is also a resource for individuals to practice getting familiar with **Pandas** without having to deal with large datasets.
 
-> Contains the general methods and use cases of Pandas in Data Analysis.
+> Contains the general methods and use cases for **Pandas**, Python's data manipulation library.
